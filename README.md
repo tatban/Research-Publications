@@ -9,7 +9,7 @@ In Recent Developments in Machine Learning and Data Analytics (IC3 2018), pages 
 Rajdeep Chatterjee, Tathagata Bandyopadhyay, Debarshi Kumar Sanyal, and Dibyajyoti Guha.
 In Proceedings of First International Conference on Smart Systems, Innovations and Computing, pages 73-83. Springer, SIST, volume 79, 2018
 
-#### Analysis of pancreas histological images for glucose intolerance identification using wavelet decomposition.
+#### [Analysis of pancreas histological images for glucose intolerance identification using wavelet decomposition.](https://github.com/tatban/Research-Publications/blob/master/AS6105057103953941522567312363_content_1.pdf)
 Tathagata Bandyopadhyay, Sreetama Mitra, Shyamali Mitra, Luis Miguel Rato, and Nibaran Das.
 In Proceedings of the 5th International Conference on Frontiers in Intelligent Computing: Theory and Applications, pages 653-661. Springer, AISC, volume 515, 2017
 
@@ -17,10 +17,10 @@ In Proceedings of the 5th International Conference on Frontiers in Intelligent C
 Rajdeep Chatterjee, Tathagata Bandyopadhyay, Debarshi Kumar Sanyal, and Dibyajyoti Guha.
 In Proceedings of the 10th International Conference on Human System Interaction (HSI), pages 131-136. IEEE, 2017
 
-#### Effects of wavelets on quality of features in motor-imagery EEG signal classification.
+#### [Effects of wavelets on quality of features in motor-imagery EEG signal classification.](https://github.com/tatban/Research-Publications/blob/master/AS3554463397191681461756419102_content_1.pdf)
 Rajdeep Chatterjee, Tathagata Bandyopadhyay, and Debarshi Kumar Sanyal.
 In Proceedings of International Conference on Wireless Communications, Signal Processing and Networking (WiSPNET), pages 1346-1350. IEEE, 2016
 
-#### EEG based motor imagery classification using SVM and MLP. 
+#### [EEG based motor imagery classification using SVM and MLP.](https://github.com/tatban/Research-Publications/blob/master/AS4123906686853121475333005185_content_1.pdf) 
 Rajdeep Chatterjee and Tathagata Bandyopadhyay.
 In Proceedings of 2nd International Conference on Computational Intelligence and Networks (CINE), pages 84-89. IEEE, 2016
