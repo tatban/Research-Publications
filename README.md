@@ -9,7 +9,7 @@ In Proceedings of the 11th ASIAN Conference on Intelligent Information and Datab
 Tathagata Bandyopadhyay, Shyamali Mitra, Sreetama Mitra, Luis Miguel Rato, Nibaran Das, and Mrinal Kanti Naskar.
 In Recent Developments in Machine Learning and Data Analytics (IC3 2018), pages 307-315. Springer, AISC, volume 740, 2018
 
-#### Comparative analysis of feature extraction techniques in motor-imagery EEG signal classification.
+#### [Comparative analysis of feature extraction techniques in motor-imagery EEG signal classification.](https://github.com/tatban/Research-Publications/blob/master/10.1007978-981-10-5828-88.pdf)
 Rajdeep Chatterjee, Tathagata Bandyopadhyay, Debarshi Kumar Sanyal, and Dibyajyoti Guha.
 In Proceedings of First International Conference on Smart Systems, Innovations and Computing, pages 73-83. Springer, SIST, volume 79, 2018
 
