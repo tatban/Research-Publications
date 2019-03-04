@@ -1,10 +1,6 @@
 # Research Publications
 This repository contains all of my research publications in one place as follows.
 
-#### A semi-supervised learning approach for automatic segmentation of retinal lesions using surf blob detector and locally adaptive binarization.
-Tathagata Bandyopadhyay, Jan Kubicek, Marek Penhaker, Juraj Timkovic,David Oczka, and Ondrej Krejcar. 
-In Proceedings of the 11th ASIAN Conference on Intelligent Information and Database Systems (ACIIDS 2019). Springer, LNAI, (accepted for publication), 2019
-
 #### [A fast algorithm for automatic segmentation of pancreas histological images for glucose intolerance identification.](https://github.com/tatban/Research-Publications/blob/master/Second_Paper.pdf)
 Tathagata Bandyopadhyay, Shyamali Mitra, Sreetama Mitra, Luis Miguel Rato, Nibaran Das, and Mrinal Kanti Naskar.
 In Recent Developments in Machine Learning and Data Analytics (IC3 2018), pages 307-315. Springer, AISC, volume 740, 2018
